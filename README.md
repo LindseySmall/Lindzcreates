@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lindzcreates
+- 👋 Hi, I’m @Lindsey
 - 👀 I’m interested in learning how to code to build websites, apps, games and more!
 - 🌱 I’m currently learning HTML and CSS.
 
